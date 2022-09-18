@@ -36,7 +36,21 @@ We have a full-stack application in this repository: a to do list application! T
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-2. Install NPM packages
+   
+2. Installing the front-end. Go to the ./todo-app/front-end folder
+   
+3. Install NPM packages
    ```sh
    npm install
    ```
+   
+4. Run the application with 
+   ```sh
+   npm start
+   ```
+   
+5. By default, this application works from port 3001. Access http://localhost:3001 in the browser
+
+6. Installing the back-end. Go to the ./todo-app/back-end folder and repeat steps 3 and 4.
+
+
