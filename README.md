@@ -1,16 +1,42 @@
-# 🚧 README em construção 🚧
+# To do List Docker
 
-<!-- Olá, Tryber!
+## 💻 About the project
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+We have a full-stack application in this repository: a to do list application! This application needs to be containerized to work. I have developed the configuration files for each specific front: Front-end, Back-end and, for a test application that validates if the applications are communicating.
 
-É essencial que você preencha esse documento por conta própria, ok?
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+## 🚀 Built with
+> This project were developed using the following technologies
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+- Docker
 
--->
+## 📌 Skills
+
+>In this project I have developed the following skills
+
+- Learned how to use Docker commands in the Command Line Interface;
+- Created Docker images of applications;
+- Created and run Docker containers;
+- Orchestrated containers using Docker Compose.
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Prerequisites
+
+* npm
+  ```sh
+  npm install
+  ```
+
+###  ⬇️ Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
