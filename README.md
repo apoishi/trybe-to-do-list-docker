@@ -2,8 +2,11 @@
 
 ## 💻 About the project
 
-We have a full-stack application in this repository: a to do list application! This application needs to be containerized to work. I have developed the configuration files for each specific front: Front-end, Back-end and, for a test application that validates if the applications are communicating.
+This repository contains a full-stack application: a to do list! This application needs to be containerized to work. I have developed the configuration files for each specific front: Front-end, Back-end and, for a test application that validates if the applications are communicating.
 
+Project developed at Trybe, as part of their Back-end curriculum. 
+
+The Back-end and the Front-end were developed by Trybe, and the configuration files for Docker were developed by me.
 
 ## 🚀 Built with
 > This project were developed using the following technologies
