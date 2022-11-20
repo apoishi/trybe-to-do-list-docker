@@ -1,6 +1,10 @@
 # To do List Docker
+
+![cover](./cover.png)
+
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary><br />
+  
 ## 💻 About the project
 
 This repository contains a full-stack application: a to do list! This application needs to be containerized to work. I have developed the configuration files for each specific front: Front-end, Back-end and, for a test application that validates if the applications are communicating.
