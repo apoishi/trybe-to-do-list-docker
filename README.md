@@ -1,6 +1,6 @@
 # To do List Docker
 
-![cover](./cover.png)
+![cover](./docker.jpeg)
 
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary><br />
