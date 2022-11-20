@@ -1,21 +1,20 @@
 # To do List Docker
-
-## 💻 About the project
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary><br />
+## 💻 About the project
 
 This repository contains a full-stack application: a to do list! This application needs to be containerized to work. I have developed the configuration files for each specific front: Front-end, Back-end and, for a test application that validates if the applications are communicating.
 
 Project developed at Trybe, as part of their Back-end curriculum. 
 
-The Back-end and the Front-end were developed by Trybe, and the configuration files for Docker were developed by me.
+The Back-end and the Front-end were provided by Trybe, and the configuration files for Docker were developed by me.
 
 ## 🚀 Built with
 > This project were developed using the following technologies
 
 - Docker
 
-## 📌 Skills
+## 👩🏻‍💻 Skills
 
 >In this project I have developed the following skills
 
@@ -24,40 +23,22 @@ The Back-end and the Front-end were developed by Trybe, and the configuration fi
 - Created and run Docker containers;
 - Orchestrated containers using Docker Compose.
 
+<details>
+  <summary markdown="span"><strong>:brazil: Português</strong></summary><br />
 
-<!-- GETTING STARTED -->
-## Getting Started
+## 💻 Sobre o projeto
 
-### Prerequisites
+Esse repositório contém uma aplicação full-stack: um aplicativo de lista de tarefas! No desafio proposto, para a aplicação funcionar, ela precisa ser conteinerizada através do Docker. Os arquivos de front-end, back-end e testes foram fornecidos pela Trybe e, eu desenvolvi os arquivos de configuração do Docker.
 
-* npm
-  ```sh
-  npm install
-  ```
+## 🚀 Tecnologias
+  
+- Docker
 
-###  ⬇️ Installation
+## 👩🏻‍💻 Habilidades
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-   
-2. Installing the front-end. Go to the ./todo-app/front-end folder
-   
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-   
-4. Run the application with 
-   ```sh
-   npm start
-   ```
-   
-5. By default, this application works from port 3001. Access http://localhost:3001 in the browser
+>Nesse projeto desenvolvi as seguintes habilidades
 
-6. Installing the back-end. Go to the ./todo-app/back-end folder and repeat steps 3 and 4.
-
-# :whale2: Docker To-Do List :octopus:
-
-
+- Aprendi como usar os comandos do Docker na interface de linha de comandos(CLI;
+- Criei Imagens Docker de aplicacões;
+- Criei e rodei Containers Docker;
+- Orquestrei containers usando Docker Compose.
