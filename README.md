@@ -6,15 +6,14 @@
   <summary markdown="span"><strong>:us: English</strong></summary><br />
   
 ## 💻 About the project
+  
+This is the first project of the Back-end curriculum developed at Trybe.
 
-This repository contains a full-stack application: a to do list! This application needs to be containerized to work. I have developed the configuration files for each specific front: Front-end, Back-end and, for a test application that validates if the applications are communicating.
-
-Project developed at Trybe, as part of their Back-end curriculum. 
-
-The Back-end and the Front-end were provided by Trybe, and the configuration files for Docker were developed by me.
+This repository contains a full-stack application: a to-do list! In this proposed challenge, for the application to work, it needs to be containerized through Docker. Trybe provided the front-end, back-end and, tests files and, I have developed the Docker configuration files.
+  
 
 ## 🚀 Built with
-> This project were developed using the following technologies
+> This project were developed using the following technology
 
 - Docker
 
