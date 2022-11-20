@@ -1,6 +1,8 @@
 # To do List Docker
 
 ## 💻 About the project
+<details>
+  <summary markdown="span"><strong>:us: English</strong></summary><br />
 
 This repository contains a full-stack application: a to do list! This application needs to be containerized to work. I have developed the configuration files for each specific front: Front-end, Back-end and, for a test application that validates if the applications are communicating.
 
@@ -55,5 +57,7 @@ The Back-end and the Front-end were developed by Trybe, and the configuration fi
 5. By default, this application works from port 3001. Access http://localhost:3001 in the browser
 
 6. Installing the back-end. Go to the ./todo-app/back-end folder and repeat steps 3 and 4.
+
+# :whale2: Docker To-Do List :octopus:
 
 
