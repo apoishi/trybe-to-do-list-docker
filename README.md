@@ -44,7 +44,7 @@ Esse repositório contém uma aplicação full-stack: um aplicativo de lista de 
 
 >Nesse projeto desenvolvi as seguintes habilidades
 
-- Aprendi como usar os comandos do Docker na interface de linha de comandos(CLI;
+- Aprendi como usar os comandos do Docker na interface de linha de comandos(CLI);
 - Criei Imagens Docker de aplicacões;
 - Criei e rodei Containers Docker;
 - Orquestrei containers usando Docker Compose.
