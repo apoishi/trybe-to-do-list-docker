@@ -26,6 +26,9 @@ The Back-end and the Front-end were provided by Trybe, and the configuration fil
 - Created Docker images of applications;
 - Created and run Docker containers;
 - Orchestrated containers using Docker Compose.
+  
+  <br />
+</details>
 
 <details>
   <summary markdown="span"><strong>:brazil: Português</strong></summary><br />
